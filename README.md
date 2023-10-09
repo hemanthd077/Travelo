@@ -1,4 +1,5 @@
-# Travelo (Web Application) - Tourist Bus Reservation System
+# Travelo (Web Application)
+A Tourist Bus Reservation System
 
 <h3>About :</h3>
 
